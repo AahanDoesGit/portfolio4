@@ -9,20 +9,20 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-    title: "Neev Sewlani | Digital Marketing & Lead Generation",
-    description: "Founder of Vantik Media — focused on building brands that stand out in the digital world through digital marketing, performance marketing, and lead generation.",
-    keywords: ["Neev Sewlani", "Vantik Media", "Digital Marketing", "Performance Marketing", "SEO", "Lead Generation", "Social Media Management"],
-    authors: [{ name: "Neev Sewlani" }],
+    title: "Alfia Nizam | Content Creator & Creative Writer",
+    description: "Content creator and published poet — crafting engaging visuals and words through Canva design, video editing, and creative writing.",
+    keywords: ["Alfia Nizam", "Content Creator", "Creative Writer", "Canva Designer", "Poetry", "Video Editing", "Reels"],
+    authors: [{ name: "Alfia Nizam" }],
     openGraph: {
-        title: "Neev Sewlani | Digital Marketing & Lead Generation",
-        description: "Founder of Vantik Media — focused on building brands that stand out in the digital world.",
+        title: "Alfia Nizam | Content Creator & Creative Writer",
+        description: "Content creator and published poet — crafting engaging visuals and words.",
         type: "website",
         locale: "en_US",
     },
     twitter: {
         card: "summary_large_image",
-        title: "Neev Sewlani | Digital Marketing & Lead Generation",
-        description: "Founder of Vantik Media — focused on building brands that stand out in the digital world.",
+        title: "Alfia Nizam | Content Creator & Creative Writer",
+        description: "Content creator and published poet — crafting engaging visuals and words.",
     },
     robots: {
         index: true,
