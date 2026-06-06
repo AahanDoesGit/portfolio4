@@ -15,7 +15,7 @@ export const portfolioItems: PortfolioItem[] = [
         description: "Published collection of creative poetry.",
         longDescription: "One of my published books featuring a collection of expressive and creative poems.",
         tools: ["Creative Writing", "Poetry", "Storytelling"],
-        image: "/projects/placeholder.png",
+        image: "/projects/certificate.png",
         category: "Writing"
     },
     {
@@ -24,7 +24,7 @@ export const portfolioItems: PortfolioItem[] = [
         description: "A collection of professional designs and posters.",
         longDescription: "Various designs created using Canva, including advertising posters, basic websites, and school projects.",
         tools: ["Canva", "Design", "Visuals"],
-        image: "/projects/placeholder.png",
+        image: "/projects/canva-design.png",
         category: "Design"
     }
 ];
